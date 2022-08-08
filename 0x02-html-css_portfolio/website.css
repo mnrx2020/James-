@@ -310,3 +310,6 @@ fieldset{position:absolute;
          }
 fieldset:focus{border-color:blue;
            }
+	   @media only screen and (max-width: 800px) {}
+	   @media only screen and (max-width: 418px) {}
+	   @media only screen and (max-width: 1130px) {body{width: 1360px;}}
